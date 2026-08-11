@@ -257,6 +257,6 @@ This project demonstrates practical experience in:
 
 ## Dynamic Map Chart
 
-![Customer Complaint Dashboard - Bank Services](images/Customer%20Complaint%20Dashboard%20Bank%20Services.png](https://github.com/Anurag-Nk/Customer-Complaint-Analysis/blob/main/dynamic%20map%20chart.png)
+![Customer Complaint Dashboard - Bank Services](https://github.com/Anurag-Nk/Customer-Complaint-Analysis/blob/main/dynamic%20map%20chart.png)
 
 ---
