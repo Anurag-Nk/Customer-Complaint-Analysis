@@ -260,3 +260,13 @@ This project demonstrates practical experience in:
 ![Customer Complaint Dashboard - Bank Services](https://github.com/Anurag-Nk/Customer-Complaint-Analysis/blob/main/dynamic%20map%20chart.png)
 
 ---
+
+# 👨‍💻 Author
+
+**Anurag**
+
+Aspiring Data Analyst | Power BI | Tableau | SQL | Excel | Python
+
+---
+
+⭐ **If you found this project useful, consider giving the repository a star!**
