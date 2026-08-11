@@ -253,10 +253,10 @@ This project demonstrates practical experience in:
 
 ## Credit Card Analysis
 
-![Customer Complaint Dashboard - Credit Card](images/Customer%20Complaint%20Dashboard%20Credit%20Card.png)
+![Customer Complaint Dashboard - Credit Card](https://github.com/Anurag-Nk/Customer-Complaint-Analysis/blob/main/dynamic%20tile%20chart.png)
 
 ## Dynamic Map Chart
 
-![Customer Complaint Dashboard - Bank Services]([images/Customer%20Complaint%20Dashboard%20Bank%20Services.png](https://github.com/Anurag-Nk/Customer-Complaint-Analysis/blob/main/dynamic%20map%20chart.png))
+![Customer Complaint Dashboard - Bank Services](images/Customer%20Complaint%20Dashboard%20Bank%20Services.png](https://github.com/Anurag-Nk/Customer-Complaint-Analysis/blob/main/dynamic%20map%20chart.png)
 
 ---
